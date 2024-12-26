@@ -1,0 +1,13 @@
+//INPUT
+import java.util.*;
+public class Scanner{
+  public static void main(String[] args){
+    Scanner s = new Scanner();
+    s.Sum();
+  }
+  void Sum(){
+    System.out.println("Learn Coding");
+  }
+}
+//OUTPUT
+Learn Coding
